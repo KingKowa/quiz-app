@@ -22,3 +22,8 @@ The Quiz App is a frontend-focused application designed to provide users with an
    ```bash
    git clone https://github.com/KingKowa/quiz-app.git
    ```
+   👤 **Frederick Ankomah**
+
+- GitHub: [@githubhandle](https://github.com/kingkowa)
+- Twitter: [@twitterhandle](https://twitter.com/kingkowa1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/frederickankomah)
